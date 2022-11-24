@@ -371,8 +371,6 @@ Your publications page is generated automatically from your BibTex bibliography.
 Simply edit `_bibliography/papers.bib`.
 You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
 
-<p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/publications-screenshot.png" width=800></p>
-
 <details><summary>(click to expand) <strong>Author annotation:</strong></summary>
 
 In publications, the author entry for yourself is identified by string array `scholar:last_name` and string array `scholar:first_name` in `_config.yml`:
@@ -527,40 +525,3 @@ This can be configured on a per-page basis, by setting the `og_image` page varia
 If for an individual page this variable is not set, then the theme will fall back to a site-wide `og_image` variable, configurable in your `_config.yml`.
 In both the page-specific and site-wide cases, the `og_image` variable needs to hold the URL for the image you wish to display in social media previews.
 
-#### Atom (RSS-like) Feed
-It generates an Atom (RSS-like) feed of your posts, useful for Atom and RSS readers.
-The feed is reachable simply by typing after your homepage `/feed.xml`.
-E.g. assuming your website mountpoint is the main folder, you can type `yourusername.github.io/feed.xml`
-
-## Contributing
-
-Contributions to al-folio are very welcome!
-Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
-
-If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
-For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
-
-### Maintainers
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://maruan.alshedivat.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
-    <td align="center"><a href="http://rohandebsarkar.github.io"><img src="https://avatars.githubusercontent.com/u/50144004?v=4" width="100px;" alt=""/><br /><sub><b>Rohan Deb Sarkar</b></sub></a></td>
-    <td align="center"><a href="https://amirpourmand.ir"><img src="https://avatars.githubusercontent.com/u/32064808?v=4" width="100px;" alt=""/><br /><sub><b>Amir Pourmand</b></sub></a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
-
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.

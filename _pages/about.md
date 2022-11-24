@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Developer at <a href='https://github.com/dair-iitd'>DAIR, IIT Delhi</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile_pic.jpg
+  image_circular: true # crops the image to make it circular
+  address:
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently involved in research on Conversational Recommendation Systems with Knowledge Base at its backend and am being advised by [Prof. Mausam](https://www.cse.iitd.ac.in/~mausam/index.html) and [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/). My research interests include but are not limited to graphical applications in computational conversational and NLP applications in social systems in general.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In the past, I have been involved in research activities with [Prof. Aruna Tiwari](https://iiti.ac.in/people/~artiwari/) on graphical ML techniques and [Prof. Tanmay Basu](https://sites.google.com/view/tanmaybasu/) on knowledge mining in medical texts. Once upon a time, I had the pleasure to work with [Prof. Parimal Parag](https://ece.iisc.ac.in/~parimal/) and [Prof. Vikram Srinivasan](https://eecs.iisc.ac.in/people/vikram-srinivasan/) on understanding and characterising latency versus redundancy trade-offs in distributed systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I also used to serve as a Backend Server Technology developer at Oracle Cloud Applications. At [Oracle](https://oracle.com) , I developed efficient and robust solutions and automations for data pipeline in HCM and CX modules .
+
+
