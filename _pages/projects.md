@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: post
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Curated list of some fun projects that I was involved in 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [NLP, ML, Power Systems]
 horizontal: false
 ---
 

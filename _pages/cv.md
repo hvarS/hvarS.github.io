@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/ #/assets/pdf/Harshvardhan_Dec.pdf
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
