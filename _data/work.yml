@@ -1,0 +1,30 @@
+- title: 
+  type: time_table
+  contents:
+    - title: Member Technical Staff
+      institution: Oracle
+      year: 2021 - 2022
+      description:
+        - title: Responsibilities included
+          contents:
+            - Analysing and automating transactional cases
+            - Modelling modular framework for UI and REST Automation
+            - Deploying Indsutrial Scale Systems
+            - Creation of Validation Services 
+    - title: Machine Learning Intern
+      institution: Grazziti
+      year: 2021
+      description:
+        - Developed an end-to-end NLP engine for Topic-Modelling and Question-Answering 
+        - Dataset included sentence, paragraph, and document level texts and created relevant and efficient search query extractions
+
+    - title: Visual Intelligence Intern
+      institution: Samsung R&D Institute, Bengaluru
+      year: 2020
+      description:
+        - title: Part of the AI Computational Photography Team. Responsible for
+          contents:
+            - Burst Image Denoising
+            - Super Low Light Video Denoising
+
+
