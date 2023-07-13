@@ -20,7 +20,11 @@ social: true  # includes social icons at the bottom of the page
 I am currently involved in research as a research developer at <a href='https://github.com/dair-iitd'>DAIR, IIT Delhi</a> on Conversational Recommendation Systems with Knowledge Base at its backend and am being advised by [Prof. Mausam](https://www.cse.iitd.ac.in/~mausam/index.html) and [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/). My research interests include but are not limited to graphical applications in computational conversational and NLP applications in social systems in general.
 
 {% raw  %}
-{% seo %}
+```html
+<head>
+  <meta name="google-site-verification" content="ZNipU2c_n70QSHZyZnQ4qXTZ7_Vy-ZJSPoAhrhEnuxQ" />
+</head>
+```
 {% endraw %}
 
 
