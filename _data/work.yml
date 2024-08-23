@@ -1,6 +1,18 @@
 - title: 
   type: time_table
   contents:
+    - title: Machine Learning Engineer
+      institution: Articulate.AI
+      year: 2024
+      description:
+        title: Responsibilities included
+        contents:
+        - Spearheaded the development of advanced models for automatic patent description generation, utilizing cutting-edge long-context methods to handle complex and detailed patent data.
+        - Integrated RoPE scaling techniques and optimized transformer architectures, enhancing the model’s capability to maintain context over longer sequences, crucial for accurate and coherent patent descriptions.
+        - Fine-tuned state-of-the-art models such as Llama3.1, Mixtral 8x7b, Gemma 2, and Phi-3, achieving a significant increase in model performance metrics, leading to more precise and legally sound patent drafts.
+        - Collaborated closely with cross-functional teams, including legal experts and patent examiners, to ensure that generated patent descriptions met industry standards and regulatory requirements.
+        - Developed and deployed scalable machine learning pipelines for model training and inference, ensuring efficient handling of large-scale patent datasets and reducing processing time by 30%.
+        - Contributed to research and development efforts, authoring internal whitepapers on the application of long-context models in intellectual property and patent documentation.
     - title: Member Technical Staff
       institution: Oracle
       year: 2021 - 2022
