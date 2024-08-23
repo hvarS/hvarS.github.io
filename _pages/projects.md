@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: Some Curated Projects that I have been a part of!
-years: [Security,NLP,ML, Power Electronics, RL, Cloud, Databases]
+years: [RL, Cloud, Databases,NLP,ML, Security, Power]
 nav: true
 nav_order: 1
 ---
