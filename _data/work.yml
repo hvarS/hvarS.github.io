@@ -5,7 +5,7 @@
       institution: Articulate.AI
       year: 2024
       description:
-        title: Responsibilities included
+      - title: Responsibilities included
         contents:
         - Spearheaded the development of advanced models for automatic patent description generation, utilizing cutting-edge long-context methods to handle complex and detailed patent data.
         - Integrated RoPE scaling techniques and optimized transformer architectures, enhancing the model’s capability to maintain context over longer sequences, crucial for accurate and coherent patent descriptions.
@@ -13,6 +13,15 @@
         - Collaborated closely with cross-functional teams, including legal experts and patent examiners, to ensure that generated patent descriptions met industry standards and regulatory requirements.
         - Developed and deployed scalable machine learning pipelines for model training and inference, ensuring efficient handling of large-scale patent datasets and reducing processing time by 30%.
         - Contributed to research and development efforts, authoring internal whitepapers on the application of long-context models in intellectual property and patent documentation.
+    - title: Associate Researcher
+      institution: IIT Delhi
+      year: 2023
+      description:
+      - title: Responsibilities included
+        contents:
+        - Worked on projects in Computer Vision and Natural Language Processing for clinical detection of celiac disease and dialog systems.
+        - Ideated and implemented Backend APIs for the Celiac Detection app, integrating features like Tissue Detection, Villi Tip Identification, Cell Counting, and Image Calibration using various computer vision algorithms.
+        - Led a research project with three collaborators to develop a novel conversational dialog system, focusing on simultaneously identifying trigger points for recommendations and maintaining coherency and fluency in response generation.
     - title: Member Technical Staff
       institution: Oracle
       year: 2021 - 2022
